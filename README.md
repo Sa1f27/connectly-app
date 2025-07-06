@@ -1,5 +1,6 @@
 # Connectly App
 
+Connectly App (based on Mirotalk) is a free, browser-based WebRTC video call solution, providing secure peer-to-peer audio/video conferencing with modern features and integrations. It is designed to be user-friendly, scalable, and easily deployable, with capabilities for chat, authentication, and more.
 
 ---
 
