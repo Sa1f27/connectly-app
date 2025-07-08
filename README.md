@@ -15,7 +15,7 @@ Connectly App is a free, browser-based WebRTC video call solution, providing sec
 - Admin and moderation features
 - Easy deployment with Docker and Node.js
 - REST API with Swagger UI documentation
-- Email notifications 
+- Email notifications (via nodemailer)
 - Environment-based configuration
 
 ---
